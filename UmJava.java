@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ExemploFor {
+public class ParImparMedia {
     public static void main(String[] args) {
 
         // cria uma lista para armazenar os números digitados pelo usuário
