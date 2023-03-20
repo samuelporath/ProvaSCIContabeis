@@ -6,7 +6,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ExemploFor {
+public class AlunoSituacao {
     public static void main(String[] args) {
 
         // cria uma lista para armazenar as notas dos alunos
